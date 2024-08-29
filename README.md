@@ -17,10 +17,12 @@ User Interface and Input Handling:
 
 Display a menu with options for browsing products, viewing the cart, placing orders, and exiting the application.
 Utilize input functions to receive user input and navigate through different functionalities.
+
 Product Browsing and Cart Management:
 
 Browse through available products and view product details.
 Add desired items to the cart, view cart contents, and modify quantities as needed.
+
 Order Placement and Summary:
 
 Validate product availability and calculate the total order amount.
@@ -48,8 +50,8 @@ Enter the desired quantity to add to the cart.
 
 View Cart:
 View all the items added to the cart, along with their details.
-Place Order:
 
+Place Order:
 Review the total amount to be paid.
 Confirm the order and simulate payment by entering a valid payment method (e.g., credit card or cash).
 
